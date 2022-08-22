@@ -1,0 +1,1 @@
+This is a test project. In it I initialize a project folder and upload it to GitHub from the shell.
